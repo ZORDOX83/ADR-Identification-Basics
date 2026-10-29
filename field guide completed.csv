@@ -1,0 +1,8 @@
+Field,RequiredForValidCase,StudentEntry,SourceEvidence
+Identifiable patient,Yes,"Yes, met for all 18 cases. Age recorded in all cases (range 23-78); sex: Female 6, Male 5, Unknown 7. No names or initials (de-identified pack). Sex is unknown, not assumed.","case_scenarios.csv: Age, Sex"
+Identifiable reporter,Yes,"Yes, met for all 18 cases (category only). Reporter type recorded: Consumer 4, Pharmacist 6, Physician 8. No name, qualification detail or country is supplied, so identifiability rests on the category in the training record.",case_scenarios.csv: Reporter
+Suspect product,Yes,"Yes, met for all 18 cases. 8 distinct products, each with dose and route (all oral). Batch, manufacturer and start date unknown.","case_scenarios.csv: SuspectProduct, Dose, Route"
+Adverse event,Yes,"Yes, met for all 18 cases. 8 distinct reaction terms, one per case, as written in the source (not MedDRA-coded).","case_scenarios.csv: Reaction, Narrative"
+Chronology,No,"Partly complete (optional field). Onset given as days after start in all cases (range 1-21). Calendar dates, stop date, event duration and concomitant start dates are unknown.","case_scenarios.csv: OnsetDays, Narrative"
+Seriousness,No,"Complete as supplied (optional field). Hospitalisation 5, medically important 10, not serious 3. Severity not supplied (unknown). Seriousness is not severity.",case_scenarios.csv: Seriousness
+Outcome,No,"Complete from narrative (optional field). Recovered 6, recovering 6, not recovered 6. Outcome dates unknown. No fatal outcomes recorded.",case_scenarios.csv: Narrative

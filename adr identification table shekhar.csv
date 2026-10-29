@@ -1,0 +1,19 @@
+CaseID,SuspectProduct,Reaction,OnsetDays,Seriousness,ExpectednessReference,Outcome,WHO_UMC_Causality
+SYN-PV-001,Amoxicillin,Rash,17,Medically important,Known,Not recovered,Possible
+SYN-PV-002,Atorvastatin,Myalgia,1,Not serious,Known,Recovered,Possible
+SYN-PV-003,Metformin,Nausea,13,Hospitalisation,Known,Recovered,Conditional / Unclassified
+SYN-PV-004,Amlodipine,Peripheral oedema,21,Medically important,Known,Recovered,Possible
+SYN-PV-005,Ciprofloxacin,Tendon pain,15,Medically important,Known,Not recovered,Possible
+SYN-PV-006,Sertraline,Dizziness,3,Medically important,Known,Recovering,Possible
+SYN-PV-007,Omeprazole,Headache,16,Medically important,Known,Recovered,Conditional / Unclassified
+SYN-PV-008,Losartan,Fatigue,2,Not serious,Unexpected,Recovering,Conditional / Unclassified
+SYN-PV-009,Amoxicillin,Rash,7,Medically important,Known,Recovering,Possible
+SYN-PV-010,Atorvastatin,Myalgia,21,Hospitalisation,Known,Recovered,Possible
+SYN-PV-011,Metformin,Nausea,19,Medically important,Known,Recovering,Possible
+SYN-PV-012,Amlodipine,Peripheral oedema,4,Medically important,Known,Not recovered,Possible
+SYN-PV-013,Ciprofloxacin,Tendon pain,5,Medically important,Known,Not recovered,Possible
+SYN-PV-014,Sertraline,Dizziness,9,Hospitalisation,Known,Recovering,Conditional / Unclassified
+SYN-PV-015,Omeprazole,Headache,16,Hospitalisation,Known,Recovered,Possible
+SYN-PV-016,Losartan,Fatigue,10,Not serious,Unexpected,Not recovered,Conditional / Unclassified
+SYN-PV-017,Amoxicillin,Rash,21,Medically important,Known,Recovering,Possible
+SYN-PV-018,Atorvastatin,Myalgia,17,Hospitalisation,Known,Not recovered,Possible
